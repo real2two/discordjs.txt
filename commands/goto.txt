@@ -1,0 +1,4 @@
+# Here is a goto example.
+goto 4
+send Skipped this line.
+send Goes to line 4.
