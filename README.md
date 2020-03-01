@@ -10,3 +10,6 @@ After you installed that, you need to download the NPM [discord.js](https://gith
 Make sure to setup your bot in [settings.txt](https://github.com/real2two/discordjs.txt/blob/master/settings.json), which is explained in the [wiki](https://github.com/real2two/discordjs.txt/wiki#what-is-settingsjson). 
 
 Finally to run the Discord bot, you need to run the command `node bot.js` in the command line.
+
+# Discord
+https://discordapp.com/invite/wPr8Nby
