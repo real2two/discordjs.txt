@@ -1,0 +1,7 @@
+{
+  "token": "ENTER TOKEN HERE",
+  "prefix": "!",
+  "limit": 50,
+  "globalcooldown": 1000,
+  "usercooldown": 500
+}
