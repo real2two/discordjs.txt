@@ -1,3 +1,5 @@
+***Discontinued / Rewriting the code***
+
 # Welcome to discordjs.txt!
 Check out our [wiki](https://github.com/real2two/discordjs.txt/wiki), which explains the Discord bot a bit!
 
